@@ -1,6 +1,8 @@
 # Hello git
-git status
+* git status
 
-# `git init`
+* `git init`
 * `git add`
 * `git commin -m'
+* `git restore`
+                        
