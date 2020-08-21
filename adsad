@@ -1,0 +1,91 @@
+[33mcommit 713985604e52f0501c578ec04cef3c452fcf1463[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 93c009c 7134f6e
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Fri Aug 21 10:42:25 2020 +0900
+
+    Merge branch 'master' of https://github.com/hoonnaam/learn_git into master
+
+[33mcommit 93c009ca02b37f4c9cebfeebda00d3d9a19ac431[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Fri Aug 21 10:42:05 2020 +0900
+
+    touch 3.txt
+
+[33mcommit 7134f6e5cf255ecb765538bdfae618a6b2b1d40c[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Fri Aug 21 10:39:22 2020 +0900
+
+    touch 4.txt
+
+[33mcommit 4da20d6ad825c4440d9cee091652f5517287c2b1[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Fri Aug 21 10:15:15 2020 +0900
+
+    touch 2.txt
+
+[33mcommit 71e923713a20667c05c9bea6e5788543b02030ba[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Fri Aug 21 10:12:18 2020 +0900
+
+    touch 1.txt
+
+[33mcommit 119d334f2f1a5e7d1bb1d78b3b51669e6c85bc50[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Fri Aug 21 10:11:02 2020 +0900
+
+    d 1.txt
+
+[33mcommit 61accb9bae3282b8185ee3b04f4af224dd823e7c[m
+Merge: 6fff3a2 844aaf5
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Fri Aug 21 10:08:52 2020 +0900
+
+    Merge branch 'master' of https://github.com/hoonnaam/learn_git into master
+
+[33mcommit 6fff3a2760dc973dc268bbc4e1ec026dbf9a05a1[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Fri Aug 21 10:03:46 2020 +0900
+
+    touch 1.txt
+
+[33mcommit 56985a9397f8fd5ecafc897f9e1bd955b11aefe9[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Fri Aug 21 09:57:59 2020 +0900
+
+    touch 2.txt
+
+[33mcommit 844aaf53deb90d03887223a09ae7485370067af9[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Fri Aug 21 09:54:55 2020 +0900
+
+    touch.txt
+
+[33mcommit 4b55f30bc5b768df38fe30fae4a5c24edbe85677[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Thu Aug 20 16:56:10 2020 +0900
+
+    learn https://gitignore.io
+
+[33mcommit 5dd4696a5db5fbdfdf41b234908cd0b55db258f3[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Thu Aug 20 15:57:18 2020 +0900
+
+    edit .gitignore
+
+[33mcommit 72d48428994659bcf81887b6bf159f871e6709b7[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Thu Aug 20 15:53:41 2020 +0900
+
+    add .gitignore
+
+[33mcommit 28638ef7c467a0b34d6a0989ef9330136a7cc9b0[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Thu Aug 20 15:29:17 2020 +0900
+
+    add 4th line
+
+[33mcommit e20c0c99c09da09af4fa5705b1e2fc351d1693dc[m
+Author: hoonnaam <ckswl320@naver.com>
+Date:   Thu Aug 20 15:14:22 2020 +0900
+
+    edit README & add unknown
